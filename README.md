@@ -8,7 +8,7 @@ For running the speech to sign language code:
 
 1).we have to keep all the related files of it in the same folder.
 
-2).And we have to run the "Speec_to_Sign Language(Telugu)" named python file.
+2).And we have to run the "Speech_to_Sign Language(Telugu)" named python file.
 
 3).After running the python file a GUI interface is opend, there we have two options Speak (or) End. By clicking the speak button, there we have to give a        
    speech command in telugu language as input to recognize the sign language Gif related to it.
