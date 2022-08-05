@@ -1,0 +1,1 @@
+# Speech-to-Sign-Lanuage-Translation-for-Telugu
